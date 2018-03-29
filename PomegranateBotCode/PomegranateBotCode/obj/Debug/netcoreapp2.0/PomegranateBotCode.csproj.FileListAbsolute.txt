@@ -1,0 +1,8 @@
+C:\Users\swiim\Desktop\Classwork + Projects\pomegranate\PomegranateBotCode\PomegranateBotCode\bin\Debug\netcoreapp2.0\PomegranateBotCode.deps.json
+C:\Users\swiim\Desktop\Classwork + Projects\pomegranate\PomegranateBotCode\PomegranateBotCode\bin\Debug\netcoreapp2.0\PomegranateBotCode.runtimeconfig.json
+C:\Users\swiim\Desktop\Classwork + Projects\pomegranate\PomegranateBotCode\PomegranateBotCode\bin\Debug\netcoreapp2.0\PomegranateBotCode.runtimeconfig.dev.json
+C:\Users\swiim\Desktop\Classwork + Projects\pomegranate\PomegranateBotCode\PomegranateBotCode\bin\Debug\netcoreapp2.0\PomegranateBotCode.dll
+C:\Users\swiim\Desktop\Classwork + Projects\pomegranate\PomegranateBotCode\PomegranateBotCode\obj\Debug\netcoreapp2.0\PomegranateBotCode.csprojResolveAssemblyReference.cache
+C:\Users\swiim\Desktop\Classwork + Projects\pomegranate\PomegranateBotCode\PomegranateBotCode\obj\Debug\netcoreapp2.0\PomegranateBotCode.csproj.CoreCompileInputs.cache
+C:\Users\swiim\Desktop\Classwork + Projects\pomegranate\PomegranateBotCode\PomegranateBotCode\obj\Debug\netcoreapp2.0\PomegranateBotCode.AssemblyInfoInputs.cache
+C:\Users\swiim\Desktop\Classwork + Projects\pomegranate\PomegranateBotCode\PomegranateBotCode\obj\Debug\netcoreapp2.0\PomegranateBotCode.AssemblyInfo.cs
