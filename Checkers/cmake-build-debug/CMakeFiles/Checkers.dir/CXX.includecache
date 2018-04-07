@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/Cell.cpp
+Cell.h
+C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/Cell.h
+
+C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/Cell.h
+iostream
+-
+string
+-
+cmath
+-
+vector
+-
+
+C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/main.cpp
+iostream
+-
+Cell.h
+C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/Cell.h
+vector
+-
+
