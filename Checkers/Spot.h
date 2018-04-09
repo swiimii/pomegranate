@@ -5,6 +5,9 @@
 #ifndef CHECKERS_SPOT_H
 #define CHECKERS_SPOT_H
 
+#include <iostream>
+#include <vector>
+#include <string>
 
 class Spot {
 public:

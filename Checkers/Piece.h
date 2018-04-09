@@ -5,18 +5,19 @@
 #ifndef CHECKERS_PIECE_H
 #define CHECKERS_PIECE_H
 
-#include "Cell.cpp"
+#include "Spot.cpp"
 
 class Piece
 {
-public:
-    bool isDead, isKing;
-    int team, row, column;
 private:
+    bool isDead, isKing;
+    int team, row, col;
+public:
+    Piece(int row, int col, int team);
     void display();
-    bool canMove(Cell &c);
+    bool canMove(Spot &c);
     void setRow(int r);
-    void serColumn(int c);
+    void setColumn(int c);
     int getRow();
     int getColumn();
     void setKing();
