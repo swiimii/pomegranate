@@ -1,10 +1,14 @@
 #include <iostream>
-#include "Cell.h"
+#include "Spot.cpp"
 #include <vector>
+#include <string>
 
 using namespace std;
 
 int main()
 {
-    cout <<"Hello World";
+    //cout <<"Hello World";
+
+
+
 }

@@ -6,25 +6,19 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/Cell.cpp
-Cell.h
-C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/Cell.h
+C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/Spot.cpp
+Spot.h
+C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/Spot.h
 
-C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/Cell.h
-iostream
--
-string
--
-cmath
--
-vector
--
+C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/Spot.h
 
 C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/main.cpp
 iostream
 -
-Cell.h
-C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/Cell.h
+Spot.cpp
+C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/Spot.cpp
 vector
+-
+string
 -
 

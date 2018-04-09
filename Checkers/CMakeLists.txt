@@ -3,4 +3,4 @@ project(Checkers)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(Checkers main.cpp Cell.cpp Cell.h)
+add_executable(Checkers main.cpp Spot.cpp Spot.h)

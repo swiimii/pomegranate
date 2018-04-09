@@ -80,40 +80,40 @@ CMakeFiles/Checkers.dir/main.cpp.obj.provides: CMakeFiles/Checkers.dir/main.cpp.
 CMakeFiles/Checkers.dir/main.cpp.obj.provides.build: CMakeFiles/Checkers.dir/main.cpp.obj
 
 
-CMakeFiles/Checkers.dir/Cell.cpp.obj: CMakeFiles/Checkers.dir/flags.make
-CMakeFiles/Checkers.dir/Cell.cpp.obj: ../Cell.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\swiim\Desktop\Classwork + Projects\pomegranate\Checkers\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Checkers.dir/Cell.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-7~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Checkers.dir\Cell.cpp.obj -c "C:\Users\swiim\Desktop\Classwork + Projects\pomegranate\Checkers\Cell.cpp"
+CMakeFiles/Checkers.dir/Spot.cpp.obj: CMakeFiles/Checkers.dir/flags.make
+CMakeFiles/Checkers.dir/Spot.cpp.obj: ../Spot.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\swiim\Desktop\Classwork + Projects\pomegranate\Checkers\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Checkers.dir/Spot.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-7~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Checkers.dir\Spot.cpp.obj -c "C:\Users\swiim\Desktop\Classwork + Projects\pomegranate\Checkers\Spot.cpp"
 
-CMakeFiles/Checkers.dir/Cell.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Checkers.dir/Cell.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-7~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\swiim\Desktop\Classwork + Projects\pomegranate\Checkers\Cell.cpp" > CMakeFiles\Checkers.dir\Cell.cpp.i
+CMakeFiles/Checkers.dir/Spot.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Checkers.dir/Spot.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-7~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\swiim\Desktop\Classwork + Projects\pomegranate\Checkers\Spot.cpp" > CMakeFiles\Checkers.dir\Spot.cpp.i
 
-CMakeFiles/Checkers.dir/Cell.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Checkers.dir/Cell.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-7~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\swiim\Desktop\Classwork + Projects\pomegranate\Checkers\Cell.cpp" -o CMakeFiles\Checkers.dir\Cell.cpp.s
+CMakeFiles/Checkers.dir/Spot.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Checkers.dir/Spot.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-7~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\swiim\Desktop\Classwork + Projects\pomegranate\Checkers\Spot.cpp" -o CMakeFiles\Checkers.dir\Spot.cpp.s
 
-CMakeFiles/Checkers.dir/Cell.cpp.obj.requires:
+CMakeFiles/Checkers.dir/Spot.cpp.obj.requires:
 
-.PHONY : CMakeFiles/Checkers.dir/Cell.cpp.obj.requires
+.PHONY : CMakeFiles/Checkers.dir/Spot.cpp.obj.requires
 
-CMakeFiles/Checkers.dir/Cell.cpp.obj.provides: CMakeFiles/Checkers.dir/Cell.cpp.obj.requires
-	$(MAKE) -f CMakeFiles\Checkers.dir\build.make CMakeFiles/Checkers.dir/Cell.cpp.obj.provides.build
-.PHONY : CMakeFiles/Checkers.dir/Cell.cpp.obj.provides
+CMakeFiles/Checkers.dir/Spot.cpp.obj.provides: CMakeFiles/Checkers.dir/Spot.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\Checkers.dir\build.make CMakeFiles/Checkers.dir/Spot.cpp.obj.provides.build
+.PHONY : CMakeFiles/Checkers.dir/Spot.cpp.obj.provides
 
-CMakeFiles/Checkers.dir/Cell.cpp.obj.provides.build: CMakeFiles/Checkers.dir/Cell.cpp.obj
+CMakeFiles/Checkers.dir/Spot.cpp.obj.provides.build: CMakeFiles/Checkers.dir/Spot.cpp.obj
 
 
 # Object files for target Checkers
 Checkers_OBJECTS = \
 "CMakeFiles/Checkers.dir/main.cpp.obj" \
-"CMakeFiles/Checkers.dir/Cell.cpp.obj"
+"CMakeFiles/Checkers.dir/Spot.cpp.obj"
 
 # External object files for target Checkers
 Checkers_EXTERNAL_OBJECTS =
 
 Checkers.exe: CMakeFiles/Checkers.dir/main.cpp.obj
-Checkers.exe: CMakeFiles/Checkers.dir/Cell.cpp.obj
+Checkers.exe: CMakeFiles/Checkers.dir/Spot.cpp.obj
 Checkers.exe: CMakeFiles/Checkers.dir/build.make
 Checkers.exe: CMakeFiles/Checkers.dir/linklibs.rsp
 Checkers.exe: CMakeFiles/Checkers.dir/objects1.rsp
@@ -127,7 +127,7 @@ CMakeFiles/Checkers.dir/build: Checkers.exe
 .PHONY : CMakeFiles/Checkers.dir/build
 
 CMakeFiles/Checkers.dir/requires: CMakeFiles/Checkers.dir/main.cpp.obj.requires
-CMakeFiles/Checkers.dir/requires: CMakeFiles/Checkers.dir/Cell.cpp.obj.requires
+CMakeFiles/Checkers.dir/requires: CMakeFiles/Checkers.dir/Spot.cpp.obj.requires
 
 .PHONY : CMakeFiles/Checkers.dir/requires
 

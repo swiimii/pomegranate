@@ -122,32 +122,32 @@ Checkers/fast:
 	$(MAKE) -f CMakeFiles\Checkers.dir\build.make CMakeFiles/Checkers.dir/build
 .PHONY : Checkers/fast
 
-Cell.obj: Cell.cpp.obj
+Spot.obj: Spot.cpp.obj
 
-.PHONY : Cell.obj
+.PHONY : Spot.obj
 
 # target to build an object file
-Cell.cpp.obj:
-	$(MAKE) -f CMakeFiles\Checkers.dir\build.make CMakeFiles/Checkers.dir/Cell.cpp.obj
-.PHONY : Cell.cpp.obj
+Spot.cpp.obj:
+	$(MAKE) -f CMakeFiles\Checkers.dir\build.make CMakeFiles/Checkers.dir/Spot.cpp.obj
+.PHONY : Spot.cpp.obj
 
-Cell.i: Cell.cpp.i
+Spot.i: Spot.cpp.i
 
-.PHONY : Cell.i
+.PHONY : Spot.i
 
 # target to preprocess a source file
-Cell.cpp.i:
-	$(MAKE) -f CMakeFiles\Checkers.dir\build.make CMakeFiles/Checkers.dir/Cell.cpp.i
-.PHONY : Cell.cpp.i
+Spot.cpp.i:
+	$(MAKE) -f CMakeFiles\Checkers.dir\build.make CMakeFiles/Checkers.dir/Spot.cpp.i
+.PHONY : Spot.cpp.i
 
-Cell.s: Cell.cpp.s
+Spot.s: Spot.cpp.s
 
-.PHONY : Cell.s
+.PHONY : Spot.s
 
 # target to generate assembly for a file
-Cell.cpp.s:
-	$(MAKE) -f CMakeFiles\Checkers.dir\build.make CMakeFiles/Checkers.dir/Cell.cpp.s
-.PHONY : Cell.cpp.s
+Spot.cpp.s:
+	$(MAKE) -f CMakeFiles\Checkers.dir\build.make CMakeFiles/Checkers.dir/Spot.cpp.s
+.PHONY : Spot.cpp.s
 
 main.obj: main.cpp.obj
 
@@ -185,9 +185,9 @@ help:
 	@echo ... rebuild_cache
 	@echo ... Checkers
 	@echo ... edit_cache
-	@echo ... Cell.obj
-	@echo ... Cell.i
-	@echo ... Cell.s
+	@echo ... Spot.obj
+	@echo ... Spot.i
+	@echo ... Spot.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

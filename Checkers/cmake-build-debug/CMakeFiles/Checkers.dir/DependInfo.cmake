@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/Cell.cpp" "C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/cmake-build-debug/CMakeFiles/Checkers.dir/Cell.cpp.obj"
+  "C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/Spot.cpp" "C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/cmake-build-debug/CMakeFiles/Checkers.dir/Spot.cpp.obj"
   "C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/main.cpp" "C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/cmake-build-debug/CMakeFiles/Checkers.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
