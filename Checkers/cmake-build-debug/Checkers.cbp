@@ -80,6 +80,18 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/Game.cpp">
+			<Option target="Checkers"/>
+		</Unit>
+		<Unit filename="C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/Game.h">
+			<Option target="Checkers"/>
+		</Unit>
+		<Unit filename="C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/Piece.cpp">
+			<Option target="Checkers"/>
+		</Unit>
+		<Unit filename="C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/Piece.h">
+			<Option target="Checkers"/>
+		</Unit>
 		<Unit filename="C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/Spot.cpp">
 			<Option target="Checkers"/>
 		</Unit>

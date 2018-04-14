@@ -122,6 +122,60 @@ Checkers/fast:
 	$(MAKE) -f CMakeFiles\Checkers.dir\build.make CMakeFiles/Checkers.dir/build
 .PHONY : Checkers/fast
 
+Game.obj: Game.cpp.obj
+
+.PHONY : Game.obj
+
+# target to build an object file
+Game.cpp.obj:
+	$(MAKE) -f CMakeFiles\Checkers.dir\build.make CMakeFiles/Checkers.dir/Game.cpp.obj
+.PHONY : Game.cpp.obj
+
+Game.i: Game.cpp.i
+
+.PHONY : Game.i
+
+# target to preprocess a source file
+Game.cpp.i:
+	$(MAKE) -f CMakeFiles\Checkers.dir\build.make CMakeFiles/Checkers.dir/Game.cpp.i
+.PHONY : Game.cpp.i
+
+Game.s: Game.cpp.s
+
+.PHONY : Game.s
+
+# target to generate assembly for a file
+Game.cpp.s:
+	$(MAKE) -f CMakeFiles\Checkers.dir\build.make CMakeFiles/Checkers.dir/Game.cpp.s
+.PHONY : Game.cpp.s
+
+Piece.obj: Piece.cpp.obj
+
+.PHONY : Piece.obj
+
+# target to build an object file
+Piece.cpp.obj:
+	$(MAKE) -f CMakeFiles\Checkers.dir\build.make CMakeFiles/Checkers.dir/Piece.cpp.obj
+.PHONY : Piece.cpp.obj
+
+Piece.i: Piece.cpp.i
+
+.PHONY : Piece.i
+
+# target to preprocess a source file
+Piece.cpp.i:
+	$(MAKE) -f CMakeFiles\Checkers.dir\build.make CMakeFiles/Checkers.dir/Piece.cpp.i
+.PHONY : Piece.cpp.i
+
+Piece.s: Piece.cpp.s
+
+.PHONY : Piece.s
+
+# target to generate assembly for a file
+Piece.cpp.s:
+	$(MAKE) -f CMakeFiles\Checkers.dir\build.make CMakeFiles/Checkers.dir/Piece.cpp.s
+.PHONY : Piece.cpp.s
+
 Spot.obj: Spot.cpp.obj
 
 .PHONY : Spot.obj
@@ -185,6 +239,12 @@ help:
 	@echo ... rebuild_cache
 	@echo ... Checkers
 	@echo ... edit_cache
+	@echo ... Game.obj
+	@echo ... Game.i
+	@echo ... Game.s
+	@echo ... Piece.obj
+	@echo ... Piece.i
+	@echo ... Piece.s
 	@echo ... Spot.obj
 	@echo ... Spot.i
 	@echo ... Spot.s

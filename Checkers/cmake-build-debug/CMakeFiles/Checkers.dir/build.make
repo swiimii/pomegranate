@@ -104,21 +104,73 @@ CMakeFiles/Checkers.dir/Spot.cpp.obj.provides: CMakeFiles/Checkers.dir/Spot.cpp.
 CMakeFiles/Checkers.dir/Spot.cpp.obj.provides.build: CMakeFiles/Checkers.dir/Spot.cpp.obj
 
 
+CMakeFiles/Checkers.dir/Piece.cpp.obj: CMakeFiles/Checkers.dir/flags.make
+CMakeFiles/Checkers.dir/Piece.cpp.obj: ../Piece.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\swiim\Desktop\Classwork + Projects\pomegranate\Checkers\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Checkers.dir/Piece.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-7~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Checkers.dir\Piece.cpp.obj -c "C:\Users\swiim\Desktop\Classwork + Projects\pomegranate\Checkers\Piece.cpp"
+
+CMakeFiles/Checkers.dir/Piece.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Checkers.dir/Piece.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-7~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\swiim\Desktop\Classwork + Projects\pomegranate\Checkers\Piece.cpp" > CMakeFiles\Checkers.dir\Piece.cpp.i
+
+CMakeFiles/Checkers.dir/Piece.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Checkers.dir/Piece.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-7~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\swiim\Desktop\Classwork + Projects\pomegranate\Checkers\Piece.cpp" -o CMakeFiles\Checkers.dir\Piece.cpp.s
+
+CMakeFiles/Checkers.dir/Piece.cpp.obj.requires:
+
+.PHONY : CMakeFiles/Checkers.dir/Piece.cpp.obj.requires
+
+CMakeFiles/Checkers.dir/Piece.cpp.obj.provides: CMakeFiles/Checkers.dir/Piece.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\Checkers.dir\build.make CMakeFiles/Checkers.dir/Piece.cpp.obj.provides.build
+.PHONY : CMakeFiles/Checkers.dir/Piece.cpp.obj.provides
+
+CMakeFiles/Checkers.dir/Piece.cpp.obj.provides.build: CMakeFiles/Checkers.dir/Piece.cpp.obj
+
+
+CMakeFiles/Checkers.dir/Game.cpp.obj: CMakeFiles/Checkers.dir/flags.make
+CMakeFiles/Checkers.dir/Game.cpp.obj: ../Game.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\swiim\Desktop\Classwork + Projects\pomegranate\Checkers\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Checkers.dir/Game.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-7~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Checkers.dir\Game.cpp.obj -c "C:\Users\swiim\Desktop\Classwork + Projects\pomegranate\Checkers\Game.cpp"
+
+CMakeFiles/Checkers.dir/Game.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Checkers.dir/Game.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-7~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\swiim\Desktop\Classwork + Projects\pomegranate\Checkers\Game.cpp" > CMakeFiles\Checkers.dir\Game.cpp.i
+
+CMakeFiles/Checkers.dir/Game.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Checkers.dir/Game.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-7~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\swiim\Desktop\Classwork + Projects\pomegranate\Checkers\Game.cpp" -o CMakeFiles\Checkers.dir\Game.cpp.s
+
+CMakeFiles/Checkers.dir/Game.cpp.obj.requires:
+
+.PHONY : CMakeFiles/Checkers.dir/Game.cpp.obj.requires
+
+CMakeFiles/Checkers.dir/Game.cpp.obj.provides: CMakeFiles/Checkers.dir/Game.cpp.obj.requires
+	$(MAKE) -f CMakeFiles\Checkers.dir\build.make CMakeFiles/Checkers.dir/Game.cpp.obj.provides.build
+.PHONY : CMakeFiles/Checkers.dir/Game.cpp.obj.provides
+
+CMakeFiles/Checkers.dir/Game.cpp.obj.provides.build: CMakeFiles/Checkers.dir/Game.cpp.obj
+
+
 # Object files for target Checkers
 Checkers_OBJECTS = \
 "CMakeFiles/Checkers.dir/main.cpp.obj" \
-"CMakeFiles/Checkers.dir/Spot.cpp.obj"
+"CMakeFiles/Checkers.dir/Spot.cpp.obj" \
+"CMakeFiles/Checkers.dir/Piece.cpp.obj" \
+"CMakeFiles/Checkers.dir/Game.cpp.obj"
 
 # External object files for target Checkers
 Checkers_EXTERNAL_OBJECTS =
 
 Checkers.exe: CMakeFiles/Checkers.dir/main.cpp.obj
 Checkers.exe: CMakeFiles/Checkers.dir/Spot.cpp.obj
+Checkers.exe: CMakeFiles/Checkers.dir/Piece.cpp.obj
+Checkers.exe: CMakeFiles/Checkers.dir/Game.cpp.obj
 Checkers.exe: CMakeFiles/Checkers.dir/build.make
 Checkers.exe: CMakeFiles/Checkers.dir/linklibs.rsp
 Checkers.exe: CMakeFiles/Checkers.dir/objects1.rsp
 Checkers.exe: CMakeFiles/Checkers.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\swiim\Desktop\Classwork + Projects\pomegranate\Checkers\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Checkers.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\swiim\Desktop\Classwork + Projects\pomegranate\Checkers\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable Checkers.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Checkers.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -128,6 +180,8 @@ CMakeFiles/Checkers.dir/build: Checkers.exe
 
 CMakeFiles/Checkers.dir/requires: CMakeFiles/Checkers.dir/main.cpp.obj.requires
 CMakeFiles/Checkers.dir/requires: CMakeFiles/Checkers.dir/Spot.cpp.obj.requires
+CMakeFiles/Checkers.dir/requires: CMakeFiles/Checkers.dir/Piece.cpp.obj.requires
+CMakeFiles/Checkers.dir/requires: CMakeFiles/Checkers.dir/Game.cpp.obj.requires
 
 .PHONY : CMakeFiles/Checkers.dir/requires
 
