@@ -6,6 +6,8 @@
 #define CHECKERS_GAME_H
 
 #include "Spot.cpp"
+#include "Piece.cpp"
+
 class Game {
 
 };
