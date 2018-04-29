@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/lab9/Pointers.h
+iostream
+-
+
+C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/lab9/main.cpp
+Pointers.h
+C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/lab9/Pointers.h
+manip.h
+C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/lab9/manip.h
+iostream
+-
+cstdlib
+-
+
+C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/lab9/manip.h
+Pointers.h
+C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/lab9/Pointers.h
+

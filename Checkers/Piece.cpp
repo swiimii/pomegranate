@@ -3,6 +3,14 @@
 //
 
 #include "Piece.h"
+Piece::Piece()
+{
+    team = 0;
+    row = 0;
+    col = 0;
+    isDead = false;
+    isKing = false;
+}
 Piece::Piece(int r, int c, int t)
 {
     row = r;
@@ -39,4 +47,7 @@ void Piece::setRow(int r)
 {
     row = r;
 }
-
+void Piece::display()
+{
+    cout<<team;
+}

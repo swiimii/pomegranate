@@ -6,19 +6,47 @@
 
 #IncludeRegexTransform: 
 
+C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/Game.cpp
+Game.h
+C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/Game.h
+
+C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/Game.h
+spot.cpp
+C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/spot.cpp
+
+C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/Piece.cpp
+Piece.h
+C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/Piece.h
+
+C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/Piece.h
+iostream
+-
+
 C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/Spot.cpp
 Spot.h
 C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/Spot.h
 
 C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/Spot.h
-
-C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/main.cpp
 iostream
 -
-Spot.cpp
-C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/Spot.cpp
 vector
 -
 string
 -
+Piece.cpp
+C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/Piece.cpp
+
+C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/main.cpp
+iostream
+-
+Spot.h
+C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/Spot.h
+vector
+-
+string
+-
+
+C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/spot.cpp
+Spot.h
+C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/Checkers/Spot.h
 

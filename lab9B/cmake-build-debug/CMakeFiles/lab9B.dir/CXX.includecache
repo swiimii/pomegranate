@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/lab9B/LList.h
+ostream
+-
+stdexcept
+-
+
+C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/lab9B/main.cpp
+iostream
+-
+vector
+-
+LList.h
+C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/lab9B/LList.h
+

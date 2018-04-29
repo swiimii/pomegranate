@@ -5,8 +5,7 @@
 #ifndef CHECKERS_GAME_H
 #define CHECKERS_GAME_H
 
-#include "Spot.cpp"
-#include "Piece.cpp"
+#include "spot.cpp"
 
 class Game {
 

@@ -5,7 +5,8 @@
 #ifndef CHECKERS_PIECE_H
 #define CHECKERS_PIECE_H
 
-#include "Spot.cpp"
+#include <iostream>
+using namespace std;
 
 class Piece
 {
@@ -13,9 +14,11 @@ private:
     bool isDead, isKing;
     int team, row, col;
 public:
+
+    Piece();
     Piece(int row, int col, int team);
     void display();
-    bool canMove(Spot &c);
+    //bool canMove(Spot &c);
     void setRow(int r);
     void setColumn(int c);
     int getRow();
@@ -23,7 +26,9 @@ public:
     void setKing();
     void setDead();
 
+
+
 };
 
 
-#endif //CHECKERS_PIECE_H
+#endif //CHECKERS_PIECE_H0

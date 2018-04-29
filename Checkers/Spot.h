@@ -8,10 +8,14 @@
 #include <iostream>
 #include <vector>
 #include <string>
+#include "Piece.cpp"
+
+using namespace std;
 
 class Spot {
 public:
-    Spot(int row, int col);
+    Spot();
+    //Spot(int row, int col, Piece p);
     bool isOccupied();
     //void assignPiece(Piece &p);
     int getRow();
