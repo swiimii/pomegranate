@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/DiceRoller/cmake-build-debug"/>
+				<Option working_dir="C:/Users/swiim/Desktop/Classwork &amp; Projects/pomegranate/DiceRoller/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork &amp; Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork &amp; Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork &amp; Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork &amp; Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="DiceRoller">
-				<Option output="C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/DiceRoller/cmake-build-debug/DiceRoller.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/DiceRoller/cmake-build-debug"/>
+				<Option output="C:/Users/swiim/Desktop/Classwork &amp; Projects/pomegranate/DiceRoller/cmake-build-debug/DiceRoller.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/swiim/Desktop/Classwork &amp; Projects/pomegranate/DiceRoller/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -32,15 +32,15 @@
 					<Add directory="C:/Program Files (x86)/mingw-w64/i686-7.3.0-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/../../../../i686-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 DiceRoller"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork &amp; Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 DiceRoller"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork &amp; Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork &amp; Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork &amp; Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="DiceRoller/fast">
-				<Option output="C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/DiceRoller/cmake-build-debug/DiceRoller.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/DiceRoller/cmake-build-debug"/>
+				<Option output="C:/Users/swiim/Desktop/Classwork &amp; Projects/pomegranate/DiceRoller/cmake-build-debug/DiceRoller.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/swiim/Desktop/Classwork &amp; Projects/pomegranate/DiceRoller/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -53,37 +53,37 @@
 					<Add directory="C:/Program Files (x86)/mingw-w64/i686-7.3.0-posix-dwarf-rt_v5-rev0/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/../../../../i686-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 DiceRoller/fast"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork &amp; Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 DiceRoller/fast"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork &amp; Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork &amp; Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork &amp; Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/DiceRoller/cmake-build-debug"/>
+				<Option working_dir="C:/Users/swiim/Desktop/Classwork &amp; Projects/pomegranate/DiceRoller/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork &amp; Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork &amp; Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork &amp; Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork &amp; Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/DiceRoller/cmake-build-debug"/>
+				<Option working_dir="C:/Users/swiim/Desktop/Classwork &amp; Projects/pomegranate/DiceRoller/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork &amp; Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork &amp; Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork &amp; Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~2/MINGW-~1/I686-7~1.0-P/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/swiim/Desktop/Classwork &amp; Projects/pomegranate/DiceRoller/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/DiceRoller/main.cpp">
+		<Unit filename="C:/Users/swiim/Desktop/Classwork &amp; Projects/pomegranate/DiceRoller/main.cpp">
 			<Option target="DiceRoller"/>
 		</Unit>
-		<Unit filename="C:/Users/swiim/Desktop/Classwork + Projects/pomegranate/DiceRoller/CMakeLists.txt">
+		<Unit filename="C:/Users/swiim/Desktop/Classwork &amp; Projects/pomegranate/DiceRoller/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

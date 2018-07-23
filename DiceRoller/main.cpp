@@ -11,6 +11,6 @@ int main()
     int sides;
     cin>>sides;
     int result = rand()%sides+1;
-    cout<<endl<<result;
+    cout<<endl<<"The result of the die is " << result;
 
 }
