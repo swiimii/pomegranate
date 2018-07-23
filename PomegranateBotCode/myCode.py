@@ -12,6 +12,10 @@ async def on_message(message):
         msg = 'Hello {0.author.mention}'.format(message)
         await client.send_message(message.channel, msg)
 
+    if message.content.startswith('!get-noah'):
+        msg = '<@Boatloads of Opium#4603> i made a bot and this is a test'.format(message)
+        await client.send_message(message.channel, msg)
+
 @client.event
 async def on_ready():
     print('Logged in as')
@@ -20,3 +24,4 @@ async def on_ready():
     print('------')
 
 client.run('NDIyMTY4MjEzOTIxNzI2NDY0.DcatlA.TAOy1n5nJdKzxKh6f8ZIcMBeBiQ')  # 'Token'
+
