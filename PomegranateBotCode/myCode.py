@@ -13,8 +13,20 @@ async def on_message(message):
         await client.send_message(message.channel, msg)
 
     if message.content.startswith('!get-noah'):
-        msg = '<@Boatloads of Opium#4603> i made a bot and this is a test'.format(message)
+        msg = '<@220734840000086037> i made a bot and this is a test'.format(message)
         await client.send_message(message.channel, msg)
+
+    if message.content.startswith('!get-sam'):
+        msg = '<@156597012500840448> i made a bot and this is a test'.format(message)
+        await client.send_message(message.channel, msg)
+
+    if message.content.startswith('dad'):
+        msg = 'Shut up, calling someone dad is illegal.'.format(message)
+        await client.send_message(message.channel, msg)
+
+    if message.content.startswith('!deja vu'):
+        # msg = 'Shut up, calling someone dad is illegal.'.format(message)
+        await client.send_message(message.channel, message.content)
 
 @client.event
 async def on_ready():
@@ -23,5 +35,4 @@ async def on_ready():
     print(client.user.id)
     print('------')
 
-client.run('NDIyMTY4MjEzOTIxNzI2NDY0.DcatlA.TAOy1n5nJdKzxKh6f8ZIcMBeBiQ')  # 'Token'
-
+client.run('NDIyMTY4MjEzOTIxNzI2NDY0.DyKknw.vSsYTBnZo7R4WKVo_Lc1d6Gpks4')  # 'Token'

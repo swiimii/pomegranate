@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="827f32d8-3bb0-478b-891d-9006b9eab05c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/PomegranateBotCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PomegranateBotCode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myFirstCode.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DiceRoller/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/cmake-build-debug/CMakeFiles/DiceRoller.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/../DiceRoller/cmake-build-debug/CMakeFiles/DiceRoller.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DiceRoller/cmake-build-debug/DiceRoller.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../DiceRoller/cmake-build-debug/DiceRoller.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myCode.py" beforeDir="false" afterPath="$PROJECT_DIR$/myCode.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Save the Kiwi/Save the Kiwi_Data/Managed/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../Save the Kiwi/Save the Kiwi_Data/Managed/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Save the Kiwi/Save the Kiwi_Data/globalgamemanagers" beforeDir="false" afterPath="$PROJECT_DIR$/../Save the Kiwi/Save the Kiwi_Data/globalgamemanagers" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Save the Kiwi/Save the Kiwi_Data/level0" beforeDir="false" afterPath="$PROJECT_DIR$/../Save the Kiwi/Save the Kiwi_Data/level0" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,6 +60,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -71,7 +76,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -176,6 +180,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/myCode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/myCode.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
